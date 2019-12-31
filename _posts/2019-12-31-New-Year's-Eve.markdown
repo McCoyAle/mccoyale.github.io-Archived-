@@ -8,6 +8,7 @@ tag:
 - random
 star: true
 category: blog
+hidden: false
 author: addismama
 description: Brief overview about the blog and objectives
 ---
