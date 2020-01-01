@@ -15,7 +15,7 @@ description: Markdown summary with different options
 ---
 
 ## Basic formatting
-
+i
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
 And that's how to do it.
@@ -23,15 +23,15 @@ And that's how to do it.
 {% highlight html %}
 This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
 {% endhighlight %}
-
+i
 ---
 
 ## Headings
-
+i
 There are six levels of headings. They correspond with the six levels of HTML headings. You've probably noticed them already in the page. Each level down uses one more hash character. But we are using just 4 of them.
 
 # Headings can be small
-
+i
 ## Headings can be small
 
 ### Headings can be small
@@ -117,7 +117,7 @@ It's sometimes handy for breaking things up.
 ---
 
 ## Images
-
+i
 Markdown can also contain images. I'll need to add something here sometime.
 
 {% highlight raw %}
