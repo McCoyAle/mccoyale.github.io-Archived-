@@ -11,7 +11,7 @@ star: true
 category: blog
 hidden: true
 author: johndoe
-description: Markdown summary with different options
+idescription: Markdown summary with different options
 ---
 
 ## Basic formatting

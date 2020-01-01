@@ -20,8 +20,17 @@ This is the first time I am attempting a reading challenge. I've always been pas
 
 I am going to carry over one book that I started reading in 2019, *Post Traumatic Slave Syndrome* by Dr. Joy Degruy. Due to studying for work, I have been unable to complete it. I plan to go back and read a few chapter over and then go from there. It really has been a good book, time just has not allowed me to complete it.
 
+I have selected the books that meet some of the following criteria:
+
+{% highlight raw %}
+1. African American/African Autobiography
+2. African American/African History
+3. African American/African author
+4. Is not pertaining to software or anything tech.
+{% endhighlight %}
+
 ## Index
-* [Currently Reading, Carried over from 2019](#reading)
+* [Books Carried over from 2019](#reading)
 * [Reading List for 2020](#reading-list)
 
 ---
