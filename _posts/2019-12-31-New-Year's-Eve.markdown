@@ -13,9 +13,9 @@ author: addismama
 description: Brief overview about the blog and objectives
 ---
 
-![Markdowm Image][/image/https://images.hellogiggles.com/uploads/2018/09/10123217/black-girls-read-featured.jpg]
+![#BlackGirlsRead](https://images.hellogiggles.com/uploads/2018/09/10123217/black-girls-read-featured.jpg)
 i
----
+i---
 # Merry New Year's Eve!!!!
 i
 Hello, and thank you for visiting my blog page. A couple of weeks ago I was supposed
