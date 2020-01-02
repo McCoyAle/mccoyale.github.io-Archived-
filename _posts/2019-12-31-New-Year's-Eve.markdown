@@ -36,7 +36,7 @@ technology, and I had a random domain with Google, I decided to setup this Blog
 site and use it to track my progress for this challenge.
 
 I have never done a challenge before, so I will make up the rules along the way and see
-how it goes. If you would like to follow along, check out my [2020 Reading Challenge](2020-01-01-reading-list-2020.markdown) project.
+how it goes. If you would like to follow along, check out my [2020 Reading Challenge](2020-01-01-reading-list-2020.md) project.
 Feel free to suggest any readings that meet the criteria I am trying to stick to.
 
 ---
