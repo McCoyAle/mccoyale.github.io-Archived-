@@ -23,7 +23,7 @@ outside of work and tech, I thought coupling this project with blogging about bo
 that I read would be the best of both worlds. I hope that you enjoy my reviews
 and they encourage you to, if not read, do what you enjoy more. Please do not
 hesitate to leave a comment or contact me using any method if there are any
-questions or suggestions! </p>
+questions or suggestions!!! </p>
 
 <h2>Skills</h2>
 
