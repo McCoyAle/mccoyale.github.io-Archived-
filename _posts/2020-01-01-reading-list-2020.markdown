@@ -77,3 +77,11 @@ I have selected the books that meet some of the following criteria:
 <h3>8. <a href="http://a.co/hXoLRl6" target="_blank">The Underground Railroad: A Novel</a> by Colson Whitehead (2016)</h3>
 *Category: Literary Fiction > African American*
 <p align="center"><a href="http://a.co/hXoLRl6" target="_blank"><img src="https://raw.githubusercontent.com/aannasw/aannasw.github.io/master/assets/images/posts/reading-list/underground-railroad.jpg" /></a></p>
+
+<h3>9. <a href="https://www.amazon.com/dp/0807739839" target="_blank">The Public Assault on America's Children: Poverty, Violencs, and Juvenile Injustice </a> by Valerie Polakow (2000)</h3>
+*Category: Politics & Social Sciences›Anthropology*
+<p align="center"><a href="https://www.amazon.com/dp/0807739839" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/413bugWmgDL._SX338_BO1,204,203,200_.jpg" /></a></p>
+
+<h3>10. <a href="https://www.amazon.com/dp/0679758690/" target="_blank">Killing the Black Body: Race, Reproduction, and the Meaning of Liberty</a> by Dorothy Roberts (1998)</h3>
+*Category: Politics & Social Sciences > Social Sciences*
+<p align="center"><a href="https://www.amazon.com/dp/0679758690/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51I%2B4cp6LPL._SX322_BO1,204,203,200_.jpg" /></a></p>
