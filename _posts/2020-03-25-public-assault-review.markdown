@@ -13,7 +13,7 @@ author: addismama
 description: Review of The Public Assault on America's Children
 ---
 
-![#PAACReview](https://images-na.ssl-images-amazon.com/images/I/71Bo15yzsNL.jpg)
+![#PAACReview](https://images-na.ssl-images-amazon.com/images/I/413bugWmgDL.     2_SX338_BO1,204,203,200_.jpg)
 
 ---
 # The Public Assault on America's Children
@@ -32,6 +32,6 @@ This book is a must read, and I would go to the extreme and say if this is your 
 
 In addition, I would like to include that I am making this post in the middle of this coronavirus pandemic that we are currently experiencing. I hope that each and every one of you are being safe and practicing social distancing. As much as we might thing it is the flu or that we will recover, when something is unknown it is best to follow the guidelines given.
 
-As always, if you would like to follow along, check out my [2020 Reading Challenge](2020-01-01-reading-list-2020.md) project. I will be adding more books to the list, as I find books that are interesting. There are some that I have and know that I will be adding. I just have not had the time to add them, as you can see with this late review. 
+As always, if you would like to follow along, check out my [2020 Reading Challenge](2020-01-01-reading-list-2020.md) project. I will be adding more books to the list, as I find books that are interesting. There are some that I have and know that I will be adding. I just have not had the time to add them, as you can see with this late review.
 
 ---
