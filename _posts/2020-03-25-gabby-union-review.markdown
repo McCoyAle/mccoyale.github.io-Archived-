@@ -24,6 +24,6 @@ Any-who, I can say that I simply appreciate her story. Being someone who has the
 
 I believe my favorite part of the book was the lack of respectability politics and her unapologetic truths. Not many people, especially of a certain status, are able to admit some of the truths. I know from experience how uncomfortable it can be to admit some of my own truths out of fear of judgement. The level of transparency that she gave us was truly inspiring. Especially in a society where women are now wanting to step out of many of the traditions society has held us imprisoned to. It is nice to see women with large audiences help that process move forward. I would definitely recommend this book.
 
-If you would like to follow along, check out my [2020 Reading Challenge](2020-01-01-reading-list-2020.md) project. I have a couple of new reads that I need to add to my list. I am way behind, but I won't focus on that. I can only do what I can do. And I finally passed my certification exam. The exam that got me started on this Jekyll/GitHub blog. So that is definitely a huge goal accomplished and I hope to get back on track here.
+If you would like to follow along, check out my [2020 Reading Challenge](2020-01-01-reading-list-2020.markdown) project. I have a couple of new reads that I need to add to my list. I am way behind, but I won't focus on that. I can only do what I can do. And I finally passed my certification exam. The exam that got me started on this Jekyll/GitHub blog. So that is definitely a huge goal accomplished and I hope to get back on track here.
 
 ---
