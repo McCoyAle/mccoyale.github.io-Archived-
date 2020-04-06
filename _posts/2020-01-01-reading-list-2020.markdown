@@ -85,3 +85,11 @@ I have selected the books that meet some of the following criteria:
 <h3>10. <a href="https://www.amazon.com/dp/0679758690/" target="_blank">Killing the Black Body: Race, Reproduction, and the Meaning of Liberty</a> by Dorothy Roberts (1998)</h3>
 *Category: Politics & Social Sciences > Social Sciences*
 <p align="center"><a href="https://www.amazon.com/dp/0679758690/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51I%2B4cp6LPL._SX322_BO1,204,203,200_.jpg" /></a></p>
+
+<h3>11. <a href="https://www.amazon.com/dp/1507526024/" target="_blank">A Friend to All Mankind: Mrs. Annie Turnbo Malone and Poro College</a> by John H. Whitfield (2016)</h3>
+*Category: Biographies & Memoirs > Specific Groups*
+<p align="center"><a href="https://www.amazon.com/dp/0679758690/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51jMCTahR1L._SX318_BO1,204,203,200_.jpg" /></a></p>
+
+<h3>12. <a href="https://www.amazon.com/dp/1507526024/" target="_blank">The White Architects of Black Education</a> by William H. Watkins (2001)</h3>
+*Category: Politics & Social Sciences›Anthropology*
+<p align="center"><a href="https://www.amazon.com/dp/B011825MOC/" target="_blank"><img src="https://images-na.ssl-images-amazon.com/images/I/51RioC%2B-UAL._SX339_BO1,204,203,200_.jpg" /></a></p>
